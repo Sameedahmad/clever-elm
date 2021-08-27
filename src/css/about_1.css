@@ -1,0 +1,45 @@
+.quote-box {
+  background-color: #1d6802;
+  color: white;
+  padding: 1.5rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.quote-box .quote {
+  text-align: center;
+
+}
+
+.heading {
+  font-weight: 700;
+}
+
+.mobile {
+  display: none;
+}
+
+.desktop {
+  display: block
+}
+
+@media screen and (max-width: 768px) {
+  .about-image {
+    height: 275px;
+  }
+  .heading {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 1;
+  }
+  .mobile {
+    display: block;
+  }
+  .desktop {
+    display: none;
+  }
+  .first-image {
+    margin-top: 1.5rem;
+  }
+}

@@ -1,0 +1,158 @@
+body {
+  background-color: transparent;
+  margin: 0 auto;
+  padding: 0 6%;
+}
+.full-width {
+  left: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw;
+  position: relative;
+  right: 50%;
+  width: 100vw;
+}
+
+.padding-zero {
+  padding: 0 0%;
+}
+.bgg {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 580px;
+  width: 100vw;
+  position: absolute;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+.original-stamp {
+  width: 140px;
+  height: 120px;
+  right: 180px;
+  bottom: 75px;
+  background-size: cover;
+}
+
+.p-padding {
+  padding-right: 139px;
+}
+
+.fix-height {
+  height: 83vh;
+}
+
+.p-col-padding {
+  padding-right: 140px;
+}
+
+.bg-grid {
+  background-size: cover;
+  width: 400px;
+  height: auto;
+}
+.bg-grid-small {
+  background-size: cover;
+  width: 220px;
+  height: auto;
+}
+.bg-grid-smaller {
+  background-size: cover;
+  width: 195px;
+  height: auto;
+}
+.pd-grid-small {
+  padding-right: 40px;
+}
+.pd-grid-smaller {
+  padding: 0px 17px;
+}
+.bg-grid-large {
+  background-size: cover;
+  width: 230px;
+  height: auto;
+}
+
+.txt-center {
+  text-align: center;
+}
+
+.h3-grid-large {
+  padding-right: 110px;
+  font-size: 25px;
+  line-height: 27px;
+}
+
+.h3-grid-large-p {
+  padding-right: 83px;
+}
+.h3-grid-large-p-2nd {
+  padding-right: 79px;
+}
+.h3-grid-large-p-3rd {
+  padding-right: 76px;
+}
+.h3-grid-large-span {
+  padding-right: 120px;
+  font-size: 25px;
+}
+.center-h3 {
+  margin-left: 5px;
+}
+
+.hr-grid {
+  width: 270px;
+  height: 2px;
+  box-shadow: #e0e0e0;
+}
+
+.sp-button {
+  text-align: center;
+  margin-right: 77px;
+  color: white;
+  padding: 5px 35px;
+  border-radius: 10px;
+  background-color: #ff6600;
+}
+.sp-button:hover {
+  background-color: rgba(204, 82, 0, 1);
+}
+
+.h3-grid-large-p-txt {
+  padding-right: 83px;
+  width: 310px;
+  margin-left: 30px;
+}
+
+.sp-button-purple {
+  text-align: center;
+  margin-right: 77px;
+  color: white;
+  padding: 5px 35px;
+  border-radius: 10px;
+  background-color: #7636ee;
+}
+
+.sp-button-purple:hover {
+  background-color: #5604d9;
+}
+
+.quote-styling {
+  width: 1150px;
+  padding: 0px 36px;
+  font-size: 26px;
+}
+.signature-position {
+  bottom: 30px;
+  right: 400px;
+
+  margin-top: 10px;
+  bottom: -20px;
+  width: 30%;
+}
+.signature-position-ab {
+  width: 30%;
+}
